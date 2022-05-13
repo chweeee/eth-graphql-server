@@ -1,0 +1,3 @@
+export const rpc_url = "https://cloudflare-eth.com/"
+export const TRANSFER_MANAGER_ERC721_CONTRACT_ADDR = "0xf42aa99F011A1fA7CDA90E5E98b277E306BcA83e"
+export const THE_OTHERSIDE_CONTRACT_ADDR = "0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258"
